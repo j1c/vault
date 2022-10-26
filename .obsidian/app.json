@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "ko"
+  ],
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}

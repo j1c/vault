@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "cfae899b87e45cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a3e3a66c57447d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Introduction to Computational Medicine/Class Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2526c55d75fff89",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d022493ff627391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57ae667fd1843d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cda9728238c4621",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#card",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0744ce1fcc1ed1cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2aec5cef5bccc5f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9ab5181027a8772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff7c9d376dfa3555",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction to Computational Medicine/Class Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43166c815f4b269a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduction to Computational Medicine/Class Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c695191b7ae780bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09183ee50d29ac2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduction to Computational Medicine/Class Notes.md"
+              }
+            }
+          },
+          {
+            "id": "cf00116b06da5a05",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a0a3e3a66c57447d",
+  "lastOpenFiles": [
+    "Introduction to Computational Medicine/Convolution.md",
+    "Introduction to Computational Medicine/Green's Function.md",
+    "Introduction to Computational Medicine/Class Notes.md",
+    "Introduction to Computational Medicine/Background.md",
+    "Computational Medicine Standard Form.md",
+    "Homogeneous Coordinates.md",
+    "Introduction to Computational Medicine/Groups.md",
+    "Graphs/graph matching.md",
+    "Meeting Notes/2022-10-7 CMI Meeting with Ting.md",
+    "2022-09-13.md"
+  ]
+}
