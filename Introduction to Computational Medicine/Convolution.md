@@ -1,8 +1,4 @@
----
-cards-deck: Introduction to Computational Medicine
----
 
-# Convolutions #card
 Convolution of two signals $x(t)$ and $y(t)$ describes how one signal blends with another as one function is shifted over the other. For discrete signals, it is defined as
 $$\begin{aligned}
     y(t) \ast x(t) & = \sum_{\tau=-\infty}^\infty y(\tau)x(t-\tau)

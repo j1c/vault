@@ -1,8 +1,4 @@
----
-cards-deck: Introduction to Computational Medicine
----
-
-# Green's Function #card
+# Green's Function
 For any linear, time invariant operator $A$, then the system is linear time-invariant system (LTI).
 ^1665528221434
 
