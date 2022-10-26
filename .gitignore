@@ -1,0 +1,6 @@
+.obsidian
+.obsidian/
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/workspace
+.obsidian/plugins/table-editor-obsidian/main.js
