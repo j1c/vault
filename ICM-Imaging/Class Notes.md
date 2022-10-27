@@ -33,12 +33,12 @@ The flow, $\phi_t$, is indexed by time $t$. $\phi_t$ is a matrix and $I_{temp}$ 
 > y
 > \end{bmatrix}
 > \end{aligned}$$
+> 
 > Other examples include
 > - Translations:
-> $$\begin{aligned}
->\phi(x, y) & = \begin{bmatrix} x\\ y \end{bmatrix}
->+
->\begin{bmatrix} b_x\\b_y\end{bmatrix}\end{aligned}$$
+> $$\begin{align}
+>\phi(x, y) & = \begin{bmatrix} x\\ y \end{bmatrix} + \begin{bmatrix} b_x\\b_y\end{bmatrix}
+>\end{align}$$
 > - Scaling:
 > $$\begin{aligned}
 >\phi(x, y) & = \begin{bmatrix}
@@ -129,49 +129,24 @@ $$\begin{aligned}
 
 We transform the transformation and landmark points as follows:
 $$\begin{aligned}
-
 Ax_i & =
-
 \begin{bmatrix}
-
 a_{11} & a_{12}\\
-
 a_{21} & a_{22}
-
 \end{bmatrix}
-
-
-
 \begin{bmatrix}
-
 x_i\\
-
 y_i
-
-\end{bmatrix}
-
-\\
-
+\end{bmatrix}\\
  & =
-
 \underbrace{
-
 \begin{bmatrix}
-
 x_i & y_i & 0& 0\\
-
 0& 0& x_i & y_i
-
 \end{bmatrix}
-
 \begin{bmatrix}
-
 a_{11} \\ a_{12} \\ a_{21} \\ a_{22}
-
-\end{bmatrix}
-
-}_{\bar{X_i}\bar a}
-
+\end{bmatrix}}_{\bar{X_i}\bar a}
 \end{aligned}$$
 Note that the matrix multiplication still results in the same vector $\begin{bmatrix}a_{11}x_i + a_{12}y_i \\ a_{21}x_i + a_{22}y_i\end{bmatrix}$.
 The solution can be formed in the [[Computational Medicine Standard Form]]:

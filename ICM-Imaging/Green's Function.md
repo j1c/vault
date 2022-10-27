@@ -1,4 +1,3 @@
-# Green's Function
 For any linear, time invariant operator $A$, then the system is linear time-invariant system (LTI).
 ^1665528221434
 
@@ -71,12 +70,11 @@ One useful property of LTI is that knowing the output from a particular input al
 >             \int_b^\infty \delta(\tau)d\tau       & = 0
 \end{aligned}$$
 Hence, the integral in the interval $(-a, b)$ is
-> $$\begin{aligned}
-> \int_{-a}^b \delta(\tau)d\tau &= 1        
-> \end{aligned}$$ 
-> 
+> $$\begin{align}
+> \int_{-a}^b \delta(\tau)d\tau &= 1
+> \end{align}$$
 
- While the proof is simply a use of the definition, a more concrete way to show is to assume that the delta function is a probability distribution, which must integrate to 1 over its support. The strict definition is not relevant for this class.
+While the proof is simply a use of the definition, a more concrete way to show is to assume that the delta function is a probability distribution, which must integrate to 1 over its support. The strict definition is not relevant for this class.
 
 > [!exercise]
 **Exercise 3**. *Show that
