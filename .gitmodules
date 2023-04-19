@@ -1,0 +1,3 @@
+[submodule "private_vault"]
+	path = private_vault
+	url = git@github.com:j1c/private_vault.git
